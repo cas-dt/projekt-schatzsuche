@@ -1,4 +1,4 @@
-# projekt-schatzsuche
+# Projekt «Schatzsuche»
 
 Das Thema in drei Sätzen: um was geht es? Was wirst du im Zweierteam tun? Was gebt ihr am Ende ab?
 
