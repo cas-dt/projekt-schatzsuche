@@ -1,8 +1,6 @@
 # Projekt «Schatzsuche»
 
-Das Thema in drei Sätzen: um was geht es? Was wirst du im Zweierteam tun? Was gebt ihr am Ende ab?
-
-- Zu zweit wählst ihr ein Projekt aus dem [Open Data Katalog der Stadt Zürich](https://data.stadt-zuerich.ch/).
+- Zu zweit wählt ihr ein Projekt aus dem [Open Data Katalog der Stadt Zürich](https://data.stadt-zuerich.ch/).
 - Ihr bestimmt jene Bereiche aus dem Datensatz, die von öffentlichem Interesse sind.
 - Ihr gestaltet dafür ein Interface, das Benutzer\*innen einen Zugang zu diesen Daten ermöglicht.
 - Ihr dokumentiert die Arbeit und präsentiert es wie für einen möglichen Geldgeber.
@@ -15,7 +13,7 @@ Dies ist ein Mehrwert für die Öffentlichkeit, kann zu kommerziell verwertbaren
 
 ## Aufgabenstellung
 
-Auf der Website [data.stadt-zuerich.ch/](https://data.stadt-zuerich.ch/) findest du einen Überblick über Daten, die die Stadt Zürich anbietet. Auf der Seite [data.stadt-zuerich.ch/dataset](https://data.stadt-zuerich.ch/dataset) gibt es Filtermöglichkeiten. Suche mit deiner/deinem Partner\*in einen geeigneten Datensatz aus (siehe **Bedingungen für das ausgewählte Projekt**, im nächsten Abschnitt).
+c findest du einen Überblick über Daten, die die Stadt Zürich anbietet. Auf der Seite [data.stadt-zuerich.ch/dataset](https://data.stadt-zuerich.ch/dataset) gibt es Filtermöglichkeiten. Suche mit deiner/deinem Partner\*in einen geeigneten Datensatz aus (siehe **Bedingungen für das ausgewählte Projekt**, im nächsten Abschnitt).
 
 Sucht im Datensatz nach interessanten Informationen. Überlegt euch, wie diese Informationen übersichtlich und attraktive aufbereitet werden könnten, so dass sie für die Allgemeinheit übers Web zugänglich werden.
 
