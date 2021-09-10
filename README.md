@@ -1,6 +1,6 @@
 # Projekt «Schatzsuche»
 
-- Zu zweit wählt ihr ein Projekt aus dem [Open Data Katalog der Stadt Zürich](https://data.stadt-zuerich.ch/).
+- Zu zweit wählt ihr ein Projekt aus dem [schweizerischen Open Data Portal](https://opendata.swiss/).
 - Ihr bestimmt jene Bereiche aus dem Datensatz, die von öffentlichem Interesse sind.
 - Ihr gestaltet dafür ein Interface, das Benutzer\*innen einen Zugang zu diesen Daten ermöglicht.
 - Ihr dokumentiert die Arbeit und präsentiert es wie für einen möglichen Geldgeber.
@@ -13,13 +13,15 @@ Dies ist ein Mehrwert für die Öffentlichkeit, kann zu kommerziell verwertbaren
 
 ## Aufgabenstellung
 
-`FIXME` c findest du einen Überblick über Daten, die die Stadt Zürich anbietet. Auf der Seite [data.stadt-zuerich.ch/dataset](https://data.stadt-zuerich.ch/dataset) gibt es Filtermöglichkeiten. Suche mit deiner/deinem Partner\*in einen geeigneten Datensatz aus (siehe **Bedingungen für das ausgewählte Projekt**, im nächsten Abschnitt).
+Auf [opendata.swiss, dem schweizerischen Open Data Portal](https://opendata.swiss/) findest du einen Überblick über Daten, die Bund, Kantone und Gemeinden anbieten. Auf der Seite [opendata.swiss/de/dataset](https://opendata.swiss/de/dataset) gibt es Filtermöglichkeiten. Suche mit deiner/deinem Partner\*in einen geeigneten Datensatz aus (siehe **Bedingungen für das ausgewählte Projekt**, im nächsten Abschnitt).
 
-Sucht im Datensatz nach interessanten Informationen. Überlegt euch, wie diese Informationen übersichtlich und attraktiv aufbereitet werden könnten, sodass sie für die Allgemeinheit übers Web zugänglich werden.
+Sucht im Datensatz nach interessanten Elementen. Überlegt euch, wie diese Informationen übersichtlich und attraktiv aufbereitet werden könnten, sodass sie für die Allgemeinheit übers Web zugänglich werden.
 
-Entwerft in Figma Screens für so eine Website. Dazu verwendet ihr keinen Blindtext sondern die Texte und Bilder aus dem Datensatz. Die Website muss einfach zu bedienen sein und zum Kontext `FIXME`. Von den wichtigsten Screens macht ihr sowohl Mobile als auch Desktop-Versionen. Zur Dokumentation fertigt ihr ein «Pressekit» an, das mindestens 5 Bilder enhält und eine kurze, informative Beschreibung im Markdown-Format.
+Entwerft in Figma Screens für so eine Website. Dazu verwendet ihr keinen Blindtext sondern die Texte und Bilder aus dem Datensatz. Die Website muss einfach zu bedienen sein und zum Kontext passen. Von den wichtigsten Screens macht ihr sowohl Mobile als auch Desktop-Versionen. Zur Dokumentation fertigt ihr ein «Pressekit» an, das mindestens 5 Bilder enhält und eine kurze, informative Beschreibung im Markdown-Format.
 
 Am Ende nehmt ihr eine maximal 3-minütige Präsentation auf, in der ihr die wichtigsten Punkte erläutert, z.B. Thema, Interface, Nutzen.
+
+Achtung: Es geht in diesem Projekt **nicht** um Datenvisualisierung.
 
 ## Bedingungen für das ausgewählte Projekt
 
