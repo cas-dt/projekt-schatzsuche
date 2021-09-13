@@ -2,8 +2,8 @@
 
 - Zu zweit wählt ihr ein Projekt aus dem [schweizerischen Open Data Portal](https://opendata.swiss/).
 - Ihr bestimmt jene Bereiche aus dem Datensatz, die von öffentlichem Interesse sind.
-- Ihr gestaltet dafür ein Interface, das Benutzer\*innen einen Zugang zu diesen Daten ermöglicht.
-- Ihr dokumentiert die Arbeit und präsentiert es wie für einen möglichen Geldgeber.
+- Ihr gestaltet eine Website, die Benutzer\*innen Einblick in diese Daten gibt.
+- Ihr dokumentiert die Arbeit und präsentiert sie wie für einen möglichen Geldgeber.
 
 ## Open Data
 
