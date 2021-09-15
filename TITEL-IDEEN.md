@@ -13,3 +13,11 @@
 - From Data to Information.
 
 - Data → User Experience
+
+---
+
+- Schatzsuche
+- Schnitzeljagd
+- Objet trouvé
+- Datendetektive
+
