@@ -12,4 +12,4 @@
 - From Data to Experience.
 - From Data to Information.
 
-- Data → Experience
+- Data → User Experience
