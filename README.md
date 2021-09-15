@@ -31,9 +31,9 @@ Wählt einen Datensatz, der Bildmaterial enthält. Falls der Datensatz keine Bil
 
 ## Tipps für die Recherche
 
-1. Grenzt die Suche durch Formate wie «CSV», «XLS» und «JSON» ein
-2. Grenzt die Suche durch eine interessante Kategorie, wie z.B. Kultur, Medien, Informationsgesellschaft, Sport ein.
-3. Grenzt die Suche durch Schlagworte, wie «bilder», «fotos», «bilddatenbank», «fotografien» etc. ein.
+1. Grenzt die Suche durch eine interessante Kategorie, wie z.B. Kultur, Medien, Informationsgesellschaft, Sport ein.
+2. Grenzt die Suche durch Formate wie `CSV`, `XLS` und `JSON` ein.
+3. Grenzt die Suche durch Schlagworte, wie `bilder`, `fotos`, `bilddatenbank`, `fotografien` etc. ein.
 
 ## Abgabe
 
