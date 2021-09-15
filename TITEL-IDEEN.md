@@ -1,15 +1,15 @@
-Datensammlung
-Bildersammlung
+- Datensammlung
+- Bildersammlung
 
-Fundstücke
+- Fundstücke
 
-Publishing Open Data
-Opening Data
-Open Data, Veröffentlicht.
-Open Data for Everyone.
+- Publishing Open Data
+- Opening Data
+- Open Data, Veröffentlicht.
+- Open Data for Everyone.
 
-Turning Data into Information.
-From Data to Experience.
-From Data to Information.
+- Turning Data into Information.
+- From Data to Experience.
+- From Data to Information.
 
-Data → Experience
+- Data → Experience
