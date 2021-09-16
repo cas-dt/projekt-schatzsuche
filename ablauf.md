@@ -30,7 +30,7 @@ Selbständige Arbeit am Projekt. Ziel: finales Design für Mobile und Desktop.
 ### Kurze Inputs
 
 - Christine: OT-Features, optische Grössen
-- Josef: Dom-Manipulation Teil 2 (?)
+- Josef: Dom-Manipulation Teil 2
 
 ## 29.10. Letzter Projekttag
 
