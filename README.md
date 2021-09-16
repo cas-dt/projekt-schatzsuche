@@ -1,4 +1,4 @@
-# Projekt «Fundstücke»
+# Projekt «Datendetektive»
 
 ## TL;DR
 - Zu zweit gestaltet ihr eine Website, die einen Datensatz aus dem [schweizerischen Open Data Portal](https://opendata.swiss/) zugänglich macht.
