@@ -43,6 +43,7 @@ Wählt einen Datensatz, der Bildmaterial enthält. Falls der Datensatz keine Bil
   - 5–7 repräsentative Bilder
 - Link zu: Figma-Dokument mit der Umsetzung
 - Präsentation der Webseite im Unterricht
+- Optional: Social Media Konzept
 
 ## Termine
 
