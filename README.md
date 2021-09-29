@@ -64,4 +64,4 @@ Wählt einen Datensatz, der Bildmaterial enthält. Falls der Datensatz keine Bil
 ### 29.10/30.10
 
 - Letzter Schliff, Arbeit an Doku
-- Input
+- Abgabe und Präsentation
