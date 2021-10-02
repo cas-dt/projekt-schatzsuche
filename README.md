@@ -51,14 +51,14 @@ Wählt einen Datensatz, der Bildmaterial enthält. Falls der Datensatz keine Bil
 
 - Projektstart mit Flo und Josef.
 - Intro Data Driven Design (Flo)
-- Intro JavaScript / Dom Manipulation (Josef)
+- JavaScript API-calls (Josef)
 - Gruppenbildung, Projektwahl
 - Erste Entwürfe
 
 ### 1./2. Oktober
 
 - Input Font-Technologie, OpenType (Christine)
-- JavaScript API-calls (Josef)
+- Intro JavaScript / Dom Manipulation (Josef)
 - Arbeit am Projekt
 
 ### 29.10/30.10
