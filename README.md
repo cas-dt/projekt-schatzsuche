@@ -37,12 +37,12 @@ Wählt einen Datensatz, der Bildmaterial enthält. Falls der Datensatz keine Bil
 
 ## Abgabe
 
-- Kurzpräsentation per Video (max. 3 Min.)
+- Kurzpräsentation per Video (max. 3 Min., v.a. kurzer Überblick über Figma, für die Dozierenden, die nicht bei der Präsentation dabei sein können) 
 - Press Kit
   - ein kurzer Text
   - 5–7 repräsentative Bilder
 - Link zu: Figma-Dokument mit der Umsetzung
-- Präsentation der Webseite im Unterricht
+- Präsentation der Webseite: SA 30.10., ca. 10 Minuten
 - Optional: Social Media Konzept
 
 ## Termine
