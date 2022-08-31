@@ -1,4 +1,4 @@
-# Pressemeldung
+# Pressemitteilung
 Für Linkedin, Instagram, Twitter, …
 
 ## Inhalt
