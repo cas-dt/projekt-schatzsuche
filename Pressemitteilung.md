@@ -1,7 +1,6 @@
 # Pressemeldung
 Für Linkedin, Instagram, Twitter, …
 
----
 ## Inhalt
 
 - Titel Datensatz
@@ -12,8 +11,6 @@ Für Linkedin, Instagram, Twitter, …
 - Feature 2
 - Feature 3
 - Kurzbeschreibung (max. 800 Zeichen)
-
----
 
 ## Beispiel:
 
