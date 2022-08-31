@@ -1,4 +1,4 @@
-# Pressemitteilung
+# Pressemitteilung per Google Forms
 Für Linkedin, Instagram, Twitter, …
 
 ## Inhalt
