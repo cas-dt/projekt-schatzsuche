@@ -1,3 +1,9 @@
+# Ziel
+- mindestens zwei Prototypen (Mobile, Desktop) der Webseite
+- Dokumentation Farben, Schriften, Komponenten
+- Marketingbilder vom Projekt für Social Media
+- Präsentation Prototyp und Figma File (Tipps & Tricks, Lessons Learned)
+
 # Checkpoints
 
 - Checkpoint 1: Pressemeldung
