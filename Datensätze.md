@@ -36,3 +36,6 @@ https://opendata.swiss/de/dataset/photos-from-the-max-frisch-archive-2
 
 # Postauto Postkarten
 https://opendata.swiss/de/dataset/postauto-postkarten
+
+# Sammlung „Archäologie“ des Schweizerischen Nationalmuseums 
+https://opendata.swiss/de/dataset/archaologie
