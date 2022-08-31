@@ -1,0 +1,2 @@
+- Kein Input von Christine (Schriften, Visual Design), wer kann dazu helfen? Gab’s das Thema Schriftwahl bereits?
+- Wegfall von Inputs zu CSV, JSON, API, Figma Plugin -> was machen wir stattdessen?
