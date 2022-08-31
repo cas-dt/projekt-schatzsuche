@@ -7,11 +7,11 @@ Für Linkedin, Instagram, Twitter, …
 - Titel Datensatz
 - Titel Projekt
 - Auftraggeber
-- Kurzbeschreibung (max. 800 Zeichen)
 - Zielgruppe
 - Feature 1
 - Feature 2
 - Feature 3
+- Kurzbeschreibung (max. 800 Zeichen)
 
 ---
 
