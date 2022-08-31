@@ -41,6 +41,6 @@ Kartendarstellung vom Sihlwald heute mit Instagram Fotos #sihlwald
 **Feature 3:** 
 Themenseiten (Bäume, Arbeiten im Wald, Verschmutzung, …)
 
-**Kurzbeschreibung**
+**Kurzbeschreibung:**
 Wer sieht den Wald vor lauter Fotos nicht? Kein Problem mit unserer neuen Microsite. Begebt euch auf eine interaktive Zeitreise und erfahrt, wie es im Sihlwald seit dem Jahr 1878 aussah. Erfahrt mehr über die Arbeit im Wald und wie ihr dazu beitragen könnt, dass der Wald lange erhalten bleibt. Macht bei eurem nächsten Besuch im Sihlwald Fotos mit eurem Smartphone unter dem Hashtag #sihlwald und teilt sie mit uns auf der Fotokarte.
 
