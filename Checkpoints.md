@@ -1,10 +1,8 @@
-Checkpoint 1: Pressemeldung
-Checkpoint 2: Wireframes Mobile + Desktop (Papier?)
-Checkpoint 3: Visual Design (Key Screens, Styleguide)
-Checkpoint 4: Prototyping
-Checkpoint 5: Präsentation Prototyp und Tipps & Tricks
-
----
+- Checkpoint 1: Pressemeldung
+- Checkpoint 2: Wireframes Mobile + Desktop (Papier?)
+- Checkpoint 3: Visual Design (Key Screens, Styleguide)
+- Checkpoint 4: Prototyping
+- Checkpoint 5: Präsentation Prototyp und Tipps & Tricks
 
 Beispiel: Klasse «Pink»
 
