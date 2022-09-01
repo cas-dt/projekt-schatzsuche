@@ -56,7 +56,7 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 - Input UI-Design (Flo)
 - Input Datenformate, APIs & Web Apps  (Josef)
 - Gruppenbildung, Projektwahl
-- «Pressemitteilung», Wire Frames
+- «Pressemitteilung», Wireframes
 
 ### 16./17. September
 
