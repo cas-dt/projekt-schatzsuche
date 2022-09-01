@@ -3,6 +3,7 @@ Für Linkedin, Instagram, Twitter, …
 
 ## Inhalt
 
+- Team
 - Titel Datensatz
 - Titel Projekt
 - Auftraggeber
