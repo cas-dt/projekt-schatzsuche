@@ -64,6 +64,6 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 - Input UI-Design
 - Arbeit am Projekt
 
-### 30. September (Volett) / 1. Oktober (Pink)
+### 30. September (Violett) / 1. Oktober (Pink)
 - Letzter Schliff
 - Abgabe und Präsentation (ca. 10 Minuten)
