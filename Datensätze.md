@@ -39,3 +39,6 @@ https://opendata.swiss/de/dataset/postauto-postkarten
 
 # Sammlung „Archäologie“ des Schweizerischen Nationalmuseums 
 https://opendata.swiss/de/dataset/archaologie
+
+# Fotografien und Ansichten von Zürich um 1910
+https://opendata.swiss/de/dataset/fotografien-und-ansichten-von-zurich-um-1910
