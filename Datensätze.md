@@ -26,6 +26,7 @@ https://opendata.swiss/de/dataset/fotosammlung-des-baugeschichtlichen-archivs-ba
 
 # Hundebestand der Stadt Zürich & Hundenamen aus dem Hundebestand der Stadt Zürich
 https://opendata.swiss/de/dataset/hundebestand-der-stadt-zurich2
+
 https://opendata.swiss/de/dataset/hundenamen-aus-dem-hundebestand-der-stadt-zurich2
 
 # Manuskripte Friedrich Glauser
