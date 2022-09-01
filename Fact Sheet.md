@@ -1,4 +1,4 @@
-# Pressemitteilung per Google Forms
+# Fact Sheet per Google Forms
 Für Linkedin, Instagram, Twitter, …
 
 ## Inhalt
