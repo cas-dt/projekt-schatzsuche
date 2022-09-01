@@ -15,7 +15,7 @@
 # Beispiel: Klasse «Pink»
 
 ## Tag 1, am 2. September
-Coding bei Josef 
+Input «Open Data, API & Web Apps» bei Josef
 
 **#teams #recherche #konzeption #pressemitteilung**
 
