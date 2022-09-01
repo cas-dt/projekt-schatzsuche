@@ -1,4 +1,4 @@
-# Projekt «Datendetektive»
+# Projekt «Open Data App»
 
 ## TL;DR
 - Zu zweit gestaltet ihr eine Website, die einen Datensatz aus dem [schweizerischen Open Data Portal](https://opendata.swiss/) zugänglich macht.
@@ -7,21 +7,19 @@
 
 ## Hintergrund
 
-Durch die Digitalisierung wird es immer einfacher Daten zu veröffentlichen – und zwar so, dass sie weiterverarbeitet werden können. Dadurch wird es für Private, Firmen und Vereine möglich, aus diesen Daten Produkte zu generieren. Zum Beispiel eine Website, die [offene Impftermine](https://rimpfli.web.app/) anzeigt, oder ein Bot, der dir immer kurz vor der [Altpapiersammlung eine Signal-Message schickt](https://dgnaegi.ch/2020/09/06/altpapierbot/), oder eine App, mit der du die [Bäume in der Stadt Zürich bestimmen kannst](https://apps.apple.com/app/urban-trees/id1483392329).
+Durch die Digitalisierung wird es immer einfacher Daten zu veröffentlichen – und zwar so, dass sie weiterverarbeitet werden können. Dadurch wird es für Private, Firmen und Vereine möglich, aus diesen Daten Produkte zu generieren. Zum Beispiel eine Website, die [offene Impftermine](https://boostli.web.app/) anzeigt, oder ein Bot, der dir immer kurz vor der [Altpapiersammlung eine Signal-Message schickt](https://dgnaegi.ch/2020/09/06/altpapierbot/), oder eine App, mit der du die [Bäume in der Stadt Zürich bestimmen kannst](https://urbantrees.app/).
 
 Auf [opendata.swiss, dem schweizerischen Open Data Portal](https://opendata.swiss/) findest du einen Überblick über Daten, die Bund, Kantone und Gemeinden anbieten. Dieser Katalog umfasst mittlerweile mehr als 6’000 Datensätze. 
 
-Doch auch wenn diese Daten «offen» sind, so sind sie zugleich verschlossen: unmenschlich verpackt in maschinenlesbaren Formaten. Denn wer hat schon schon Lust, durch endlos lange Tabellen zu scrollen und sich durch Dateien und Ordner zu klicken? Erst durch Recherche, Konzeption und Gestaltung wird aus einer trockenen Datensammlung ein Benutzererlebnis das informiert, begeistert und inspiriert.
+Doch auch wenn diese Daten öffentlich sind, so ist der Zugang dazu schwierig. Wer hat schon schon Lust, durch endlos lange Tabellen zu scrollen und sich durch Dateien und Ordner zu klicken? Erst durch Recherche, Konzeption und Gestaltung wird aus einer trockenen Datensammlung ein Benutzererlebnis das informiert, begeistert und inspiriert.
 
 ## Aufgabe
 
 Suche mit deiner/deinem Partner\*in einen geeigneten Datensatz aus (siehe **Bedingungen für das ausgewählte Projekt**, im nächsten Abschnitt).
 
-Sucht im Datensatz nach interessanten Informationen. Überlegt euch, wie diese übersichtlich und attraktiv aufbereitet werden könnten, sodass sie für die Allgemeinheit **in Form einer Webseite** zugänglich werden.
+Sucht im Datensatz nach interessanten Informationen. Überlegt euch, wie diese übersichtlich und attraktiv aufbereitet werden könnten, damit sie für die Allgemeinheit **in Form einer Website** zugänglich werden.
 
-Entwerft Prototypen für so eine Website. Dazu verwendet ihr keinen Blindtext sondern die Texte und Bilder aus dem Datensatz. Die Website muss einfach zu bedienen sein und zum Kontext passen. Von den wichtigsten Screens macht ihr sowohl Mobile als auch Desktop-Versionen. Zur Dokumentation fertigt ihr ein «Pressekit» an, das mindestens 5 Bilder enthält und eine kurze, informative Beschreibung im Markdown-Format.
-
-Am Ende nehmt ihr eine maximal 3-minütige Präsentation auf, in der ihr die wichtigsten Punkte erläutert.
+Entwerft Prototypen für so eine Website. Dazu verwendet ihr keinen Blindtext, sondern die Texte und Bilder aus dem Datensatz. Die Website muss einfach zu bedienen sein und zum Kontext passen. Von den wichtigsten Screens macht ihr sowohl Mobile als auch Desktop-Versionen. Zur Dokumentation fertigt ihr ein «Pressekit» an, das mindestens 5 Bilder enthält und eine knappe, informative Beschreibung im Markdown-Format.
 
 ## Bedingungen für das ausgewählte Projekt
 
@@ -35,33 +33,37 @@ Wählt einen Datensatz, der Bildmaterial enthält. Falls der Datensatz keine Bil
 2. Grenzt die Suche durch Formate wie `CSV`, `XLS` und `JSON` ein.
 3. Grenzt die Suche durch Schlagworte, wie `bilder`, `fotos`, `bilddatenbank`, `fotografien` etc. ein.
 
+Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzsuche/blob/main/Datens%C3%A4tze.md) eine Vorauswahl getroffen, um euch die Suche zu erleichtern.
+
 ## Abgabe
 
-- Kurzpräsentation per Video (max. 3 Min., v.a. kurzer Überblick über Figma, für die Dozierenden, die nicht bei der Präsentation dabei sein können) 
 - Press Kit
   - ein kurzer Text
   - 5–7 repräsentative Bilder
 - Link zu: Figma-Dokument mit der Umsetzung
-- Präsentation der Webseite: SA 30.10., ca. 10 Minuten
 - Optional: Social Media Konzept
+
+## Präsentation
+- Präsentation (ca. 10 Minuten): 
+  - Kann direkt in Figma gemacht werden.
+
 
 ## Termine
 
-### 17./18. September
+### 2./3. September
 
 - Projektstart mit Flo und Josef.
-- Intro Data Driven Design (Flo)
-- JavaScript API-calls (Josef)
+- Input UI-Design (Flo)
+- Input Datenformate, APIs & Web Apps  (Josef)
 - Gruppenbildung, Projektwahl
-- Erste Entwürfe
+- «Pressemitteilung», Wire Frames
 
-### 1./2. Oktober
+### 16./17. September
 
-- Input Font-Technologie, OpenType (Christine)
-- Intro JavaScript / Dom Manipulation (Josef)
+- Input UI-Testing (Sylvain Morger) – kein direkter Bezug zum Projekt
+- Input UI-Design
 - Arbeit am Projekt
 
-### 29.10/30.10
-
-- Letzter Schliff, Arbeit an Doku
-- Abgabe und Präsentation
+### 30. September (Volett) / 1. Oktober (Pink)
+- Letzter Schliff
+- Abgabe und Präsentation (ca. 10 Minuten)
