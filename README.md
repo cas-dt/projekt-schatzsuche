@@ -50,20 +50,21 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 
 ## Termine
 
-### 2./3. September
+### 1./2. September
 
 - Projektstart mit Flo und Josef.
 - Input UI-Design (Flo)
-- Input Datenformate, APIs & Web Apps  (Josef)
+- Input Datenformate, APIs & Web Apps  (Vera/Josef)
 - Gruppenbildung, Projektwahl
 - «Pressemitteilung», Wireframes
 
-### 16./17. September
+### 15. September/ 16. September
 
-- Input UI-Testing (Sylvain Morger) – kein direkter Bezug zum Projekt
 - Input UI-Design
+- Input Datenformate, APIs & Web Apps  (Vera)
 - Arbeit am Projekt
 
-### 30. September (Violett) / 1. Oktober (Pink)
+
+### 29. September
 - Letzter Schliff
 - Abgabe und Präsentation (ca. 10 Minuten)
