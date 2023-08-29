@@ -26,9 +26,9 @@ https://opendata.swiss/de/dataset/historische-fotografien-des-forstbetriebes-sih
 https://opendata.swiss/de/dataset/fotosammlung-des-baugeschichtlichen-archivs-bar
 
 ## Hundebestand der Stadt Zürich & Hundenamen aus dem Hundebestand der Stadt Zürich
-https://opendata.swiss/de/dataset/hundebestand-der-stadt-zurich2
+https://opendata.swiss/de/dataset/hundebestande-der-stadt-zurich-seit-2015
 
-https://opendata.swiss/de/dataset/hundenamen-aus-dem-hundebestand-der-stadt-zurich2
+https://opendata.swiss/de/dataset/hundenamen-aus-dem-hundebestanden-der-stadt-zurich-seit-2015
 
 ## Manuskripte Friedrich Glauser
 https://opendata.swiss/de/dataset/manuskripte-friedrich-glauser
