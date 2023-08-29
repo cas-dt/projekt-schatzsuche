@@ -5,7 +5,7 @@ Eine Auswahl der über 7’500 Datensätze, die sich bewährt hat.
 https://opendata.swiss/de/dataset/bildersammlung-annemarie-schwarzenbach
 
 ## Die 500 erfolgreichsten Schweizer Filme
-https://opendata.swiss/de/dataset/die-500-erfolgreichsten-schweizer-filme3
+https://opendata.swiss/de/dataset/die-500-erfolgreichsten-schweizer-filme4
 
 ## Spielgerätekataster
 https://opendata.swiss/de/dataset/spielgeratekataster
