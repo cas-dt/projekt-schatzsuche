@@ -1,6 +1,6 @@
 # Vorschlag Ablauf Projekt 1
 
-![ablauf.png]()
+![](ablauf.png)
 
 ## 1.9. Projektstart (Flo/Josef)
 
