@@ -1,53 +1,43 @@
 # Vorschlag Ablauf Projekt 1
 
-![](ablauf.png)
-
 ## 1.9. Projektstart (Flo/Josef)
 
-Wir beginnen ~~in beiden Klassen separat~~ mit den 5-Minuten-Präsis zum Thema «~~was ich aus den Sommerferien mitgebracht habe»~~.
+### Morgen
 
-Dann ~~beide Klassen gemeinsam~~ **Projekt-Intro** (Flo). **Team-Bildung** und Suche nach geeignetem **Datensatz**.
+5-Minuten-Präsis zum Thema «~~was ich aus den Sommerferien mitgebracht habe»~~.
 
-~~Am Nachmittag und am nächstem Tag Inputs zum Thema übers Kreuz.~~
+### Nachmittag
+- **Projekt-Intro** (Flo).
+- **Team-Bildung** (15 TN: 6 * 2 + 3 = 7 Gruppen)
+- Suche nach geeignetem **Datensatz**.
 
-**Tagesziel**: Bis am Abend formuliert jede Gruppe schriftlich ihre Idee mit einer ersten Skizze (Miro oder Pinwand).
-
-### Notizen Josef, 29.8.
-- *Braucht es den API Input?*
-- Gruppengrösse? (15 TN: 6 * 2 + 3 = 7 Gruppen)
-- Gut fände ich, wenn die Gruppen auch gleich schon am ersten Tag vereinbaren, wer welche Arbeiten übernimmt und dies schriftlich festhalten, inklusive grober Zeitplan (wann sprechen wir uns ab? was erledigen wir von zuhause aus?). (Vermeidung Konflikte)
-
-### Kurze Inputs
-
-~~Am Nachmittag gibt es in jeder Klasse einen Input mit Übung. Dies wird am Folgetag am Morgen in der jeweils anderen Klasse wiederholt.~~
-
-- Flo: Data Driven Design, CSV, Google Spreadsheet, Figma
-- Josef: API calls mit JavaScript *(Vorschlag 29.8.: weglassen, Nutzen sehr gering)*
-  - gibt es etwas anderes, was sinnvoller wäre?
+**Tagesziel**: Bis am Abend formuliert jede Gruppe schriftlich ihre Idee (**Pressemitteilung**) mit einer ersten Skizze.
 
 ## 2.9. Tag 2 (Vera/Josef)
 
-Morgen: Sichten, Ordnen, Überblicken – Technik-Jargon
-
-Am Nachmittag Arbeit am Projekt – Ziel: Wireframes Mobile
+- Morgen: Sichten, Ordnen, Überblicken – Input **Technik-Jargon**
+- Nachmittag: Arbeit am Projekt – Ziel: **Wireframes Mobile
 
 ## 15./16.9. Zweiter und dritter Projekttag (Flo, Vera/Josef)
 
 Selbständige Arbeit am Projekt. Ziel: finales Design für Mobile und Desktop.
 
-### Kurze Inputs
-- ~~Christine: OT-Features, optische Grössen~~
-- ~~Josef: Dom-Manipulation Teil 2~~
-- Flo: TBD
-- Vera/Josef: TBD
+- An diesen Tagen sollte die Schriftwahl erfolgen.
+- Fokus auf Grösse, muss mit Mobile-Preview getestet werden.
+- Ziel: Jedes Team kriegt am 15. oder 16. Feedback zur Schriftwahl und Design soweit vorhanden.
 
+### Kurze Inputs
+- Flo: UI Design
+- Vera/Josef: OT-Features in CSS und Figma? (TBD)
 
 ## 20.9. Letzter Projekttag
 
-Selbständige Arbeit am Projekt: Präsentation vorbereiten, Dokumentation <— **Umfang müssen wir gemeinsam noch bestimmen.**
+### Morgen
 
-~~Ev. noch einmal Mikro-Inputs von Flo und Josef. Christine macht Präenstations-Design Feedback auf Anfrage~~
+Selbständige Arbeit am Projekt: Präsentation vorbereiten, Dokumentation
 
-- Die Präsentationen werden von Flo und Josef ~~in separatem Setting~~ abgenommen.
+### Nachmittag
+
+- Die Präsentationen werden von Flo und Josef abgenommen.
 - Es gibt jeweils ein Mini-Feedback.
-- Präsentation nur am Nachmittag (**oder?**)
+- Präsentation nur am Nachmittag
