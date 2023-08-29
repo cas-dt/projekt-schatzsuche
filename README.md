@@ -57,7 +57,7 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 - Input UI-Design (Flo)
 - Ziel: «Pressemitteilung», Wireframes
 
-### 2. September
+### 2. September
 
 - Nachmittag: Arbeit am Projekt (Ziel: Wireframes)
 
