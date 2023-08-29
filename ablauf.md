@@ -13,7 +13,7 @@ Dann beide Klassen gemeinsam **Projekt-Intro** (Flo). **Team-Bildung** und Suche
 Am Nachmittag gibt es in jeder Klasse einen Input mit Übung. Dies wird am Folgetag am Morgen in der jeweils anderen Klasse wiederholt.
 
 - Flo: Data Driven Design, CSV, Google Spreadsheet, Figma
-- Josef: API calls mit JavaScript
+- Josef: API calls mit JavaScript *(Vrschlag 29.8.: weglassen)jk
 
 ## 19.9. Tag 2 (Flo/Josef)
 
