@@ -4,7 +4,11 @@
 
 ### Morgen
 
-5-Minuten-Präsis zum Thema «~~was ich aus den Sommerferien mitgebracht habe»~~.
+- 5-Minuten-Präsis
+- 🚜 Thema: Etwas aus dem ersten Semester, das du vertiefen möchtest, oder etwas Neues, was mit der Weiterbildung zusammenhängt.
+- Herbst, max. 3 Minuten.
+
+
 
 ### Nachmittag
 - **Projekt-Intro** (Flo).
