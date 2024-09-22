@@ -46,4 +46,22 @@ https://opendata.swiss/de/dataset/archaologie
 https://opendata.swiss/de/dataset/fotografien-und-ansichten-von-zurich-um-1910
 
 ## Bildersammlung Eduard Spelterini
- https://opendata.swiss/dataset/bildersammlung-eduard-spelterini
+https://opendata.swiss/dataset/bildersammlung-eduard-spelterini
+
+---
+
+# Neue Datensätze (2024)
+
+## Historische Bilder (Stadt Zürich)
+https://opendata.swiss/de/dataset/historische-bilder
+
+## Fotografien und Ansichten von Zürich um 1910
+https://opendata.swiss/de/dataset/fotografien-und-ansichten-von-zurich-um-1910
+
+## Sammlung Charles A. Drenowatz am MRZ
+
+## Kunst im öffentlichen Raum (Basel)
+https://opendata.swiss/de/dataset/kunst-im-offentlichen-raum
+
+## Fotos im Archiv von Hans Himmelheber (1908–2003) im Museum Rietberg
+https://opendata.swiss/de/dataset/fotos-im-archiv-von-hans-himmelheber-19082003-im-museum-rietberg
