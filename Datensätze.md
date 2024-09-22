@@ -59,6 +59,7 @@ https://opendata.swiss/de/dataset/historische-bilder
 https://opendata.swiss/de/dataset/fotografien-und-ansichten-von-zurich-um-1910
 
 ## Sammlung Charles A. Drenowatz am MRZ
+https://opendata.swiss/de/dataset/sammlung-charles-a-drenowatz-am-mrz
 
 ## Kunst im öffentlichen Raum (Basel)
 https://opendata.swiss/de/dataset/kunst-im-offentlichen-raum
