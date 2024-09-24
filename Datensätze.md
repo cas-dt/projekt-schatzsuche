@@ -49,9 +49,6 @@ https://opendata.swiss/dataset/bildersammlung-eduard-spelterini
 ## Historische Bilder (Stadt Zürich)
 https://opendata.swiss/de/dataset/historische-bilder
 
-## Fotografien und Ansichten von Zürich um 1910
-https://opendata.swiss/de/dataset/fotografien-und-ansichten-von-zurich-um-1910
-
 ## Sammlung Charles A. Drenowatz am MRZ
 https://opendata.swiss/de/dataset/sammlung-charles-a-drenowatz-am-mrz
 
