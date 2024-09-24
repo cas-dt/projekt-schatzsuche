@@ -1,7 +1,7 @@
 # Projekt «Open Data Website»
 
 ## TL;DR
-- Zu zweit gestaltet ihr eine Website, die einen Datensatz aus dem [schweizerischen Open Data Portal](https://opendata.swiss/) zugänglich macht.
+- Zu zweit oder dritt gestaltet ihr eine Website, die einen Datensatz aus dem [schweizerischen Open Data Portal](https://opendata.swiss/) zugänglich macht.
 - Ihr bestimmt jene Bereiche aus dem Datensatz, die von öffentlichem Interesse sind.
 - Ihr präsentiert und dokumentiert das Ergebnis.
 
@@ -50,25 +50,29 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 
 ## Termine
 
-### 1. September
+### 27. September
 
-- Projektstart mit Flo und Josef.
+- Projektstart mit Flo
 - Gruppenbildung, Projektwahl
 - Input UI-Design (Flo)
 - Ziel: «Pressemitteilung», Wireframes
 
-### 2. September
+### 28. September
 
 - Nachmittag: Arbeit am Projekt (Ziel: Wireframes)
 
-### 15. September
-- Input UI-Design(Flo)
+### 18. Oktober
+
+- Input UI Design
+- Konsultationen
 - Arbeit am Projekt (Schriftwahl, Design)
 
-###  16. September
+###  19. Oktober
+
 - Input Technik (Josef/Vera)
 - Arbeit am Projekt (Schriftwahl, Design)
 
-### 29. September
-- Letzter Schliff
-- Abgabe und Präsentation (ca. 10 Minuten)
+### 1. Oktober (Vormittag)
+
+- Letzter Schliff (eine Stunde)
+- Präsentationen (ca. 10 Minuten)
