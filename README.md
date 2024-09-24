@@ -52,19 +52,21 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 
 ### 27. September
 
-- Projektstart mit Flo
+- Projektstart (Flo/Josef/Raphaela)
 - Gruppenbildung, Projektwahl
 - Input UI-Design (Flo)
 - Ziel: «Pressemitteilung», Wireframes
 
 ### 28. September
 
-- Nachmittag: Arbeit am Projekt (Ziel: Wireframes)
+- Input Technik (Josef/Vera)
+- Nachmittag: Arbeit am Projekt (Ziel: IA, Wireframes, …), Aufgabenteilung, Organisation, Planung
+
+[Hausaufgabe: Prototyping]
 
 ### 18. Oktober
 
-- Input UI Design
-- Konsultationen
+- Konsultationen (Flo/Raphaela)
 - Arbeit am Projekt (Schriftwahl, Design)
 
 ###  19. Oktober
