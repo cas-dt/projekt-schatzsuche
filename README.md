@@ -1,7 +1,7 @@
 # Projekt «Open Data Website»
 
 ## TL;DR
-- Zu zweit oder dritt gestaltet ihr eine Website, die einen Datensatz aus dem [schweizerischen Open Data Portal](https://opendata.swiss/) zugänglich macht.
+- Zu dritt gestaltet ihr eine Website, die einen Datensatz aus dem [schweizerischen Open Data Portal](https://opendata.swiss/) zugänglich macht.
 - Ihr bestimmt jene Bereiche aus dem Datensatz, die von öffentlichem Interesse sind.
 - Ihr präsentiert und dokumentiert das Ergebnis.
 
