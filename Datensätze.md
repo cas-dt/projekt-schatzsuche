@@ -4,17 +4,11 @@ Eine Auswahl der über 7’500 Datensätze, die sich bewährt hat.
 ## Bildersammlung Annemarie Schwarzenbach
 https://opendata.swiss/de/dataset/bildersammlung-annemarie-schwarzenbach
 
-## Die 500 erfolgreichsten Schweizer Filme
-https://opendata.swiss/de/dataset/die-500-erfolgreichsten-schweizer-filme4
-
 ## Spielgerätekataster
 https://opendata.swiss/de/dataset/spielgeratekataster
 
 ## Unterkünfte in Zürich (Zürich Tourismus)
 https://opendata.swiss/de/dataset/unterkunfte-in-zurich-zurich-tourismus1
-
-## Filmfestivals, Kinos und Heimkinos
-https://opendata.swiss/de/dataset/filmfestivals-kinos-und-heimkino
 
 ## Bildarchiv des Lebensmittelverein Zürich (LVZ)
 https://opendata.swiss/de/dataset/bildarchiv-des-lebensmittelverein-zurich-lvz
