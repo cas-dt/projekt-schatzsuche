@@ -74,7 +74,7 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 - Input Technik (Josef/Vera)
 - Arbeit am Projekt (Schriftwahl, Design)
 
-### 1. Oktober (Vormittag)
+### 1. November (Vormittag)
 
 - Letzter Schliff (eine Stunde)
 - Präsentationen (ca. 10 Minuten)
