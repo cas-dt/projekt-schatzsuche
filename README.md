@@ -59,7 +59,7 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 
 ### 28. September
 
-- Input Technik (Josef/Vera)
+- Input Technik (Josef)
 - Nachmittag: Arbeit am Projekt (Ziel: IA, Wireframes, …), Aufgabenteilung, Organisation, Planung
 
 [Hausaufgabe: Prototyping]
@@ -71,7 +71,7 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 
 ###  19. Oktober
 
-- Input Technik (Josef/Vera)
+- Input Technik (Josef)
 - Arbeit am Projekt (Schriftwahl, Design)
 
 ### 1. November (Vormittag)
