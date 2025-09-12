@@ -67,5 +67,5 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 
 ### 18. Oktober
 
-- Letzter Schliff (Vormittag)
+- Konsultation, Letzter Schliff (Vormittag)
 - Präsentationen, ca. 10 Minuten (Nachmittag)
