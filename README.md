@@ -58,6 +58,7 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 
 ### 26. September
 
+- Konsultationen
 - Projektarbeit (Prototyping)
 
 ### 27. September
