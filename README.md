@@ -9,7 +9,7 @@
 
 Durch die Digitalisierung wird es immer einfacher Daten zu veröffentlichen – und zwar so, dass sie weiterverarbeitet werden können. Dadurch wird es für Private, Firmen und Vereine möglich, aus diesen Daten Produkte zu generieren. Zum Beispiel eine Website, die [offene Impftermine](https://boostli.web.app/) anzeigt, oder ein Bot, der dir immer kurz vor der [Altpapiersammlung eine Signal-Message schickt](https://dgnaegi.ch/2020/09/06/altpapierbot/), oder eine App, mit der du die [Bäume in der Stadt Zürich bestimmen kannst](https://urbantrees.app/).
 
-Auf [opendata.swiss, dem schweizerischen Open Data Portal](https://opendata.swiss/) findest du einen Überblick über Daten, die Bund, Kantone und Gemeinden anbieten. Dieser Katalog umfasst mittlerweile mehr als 6’000 Datensätze. 
+Auf [opendata.swiss, dem schweizerischen Open Data Portal](https://opendata.swiss/) findest du einen Überblick über Daten, die Bund, Kantone und Gemeinden anbieten. Dieser Katalog umfasst mittlerweile mehr als 13’000 Datensätze. 
 
 Doch auch wenn diese Daten öffentlich sind, so ist der Zugang dazu schwierig. Wer hat schon schon Lust, durch endlos lange Tabellen zu scrollen und sich durch Dateien und Ordner zu klicken? Erst durch Recherche, Konzeption und Gestaltung wird aus einer trockenen Datensammlung ein Benutzererlebnis das informiert, begeistert und inspiriert.
 
@@ -50,31 +50,21 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 
 ## Termine
 
+### 13. September
+
+- Projektstart (Flo)
+- Gruppenbildung, Projektwahl
+- Ziel: «Fact Sheet», Wireframes
+
+### 26. September
+
+- Projektarbeit (Prototyping)
+
 ### 27. September
 
-- Projektstart (Flo/Josef/Raphaela)
-- Gruppenbildung, Projektwahl
-- Input UI-Design (Flo)
-- Ziel: «Pressemitteilung», Wireframes
-
-### 28. September
-
-- Input Technik (Josef)
-- Nachmittag: Arbeit am Projekt (Ziel: IA, Wireframes, …), Aufgabenteilung, Organisation, Planung
-
-[Hausaufgabe: Prototyping]
+- TBD
 
 ### 18. Oktober
 
-- Konsultationen (Flo/Raphaela)
-- Arbeit am Projekt (Schriftwahl, Design)
-
-###  19. Oktober
-
-- Input Technik (Josef)
-- Arbeit am Projekt (Schriftwahl, Design)
-
-### 1. November (Vormittag)
-
-- Letzter Schliff (eine Stunde)
-- Präsentationen (ca. 10 Minuten)
+- Letzter Schliff (Vormittag)
+- Präsentationen, ca. 10 Minuten (Nachmittag)
