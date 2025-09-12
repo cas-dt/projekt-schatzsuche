@@ -1,5 +1,5 @@
 # Selektion Datensätze
-Eine Auswahl der über 7’500 Datensätze, die sich bewährt hat.
+Eine Auswahl der über 13’000 Datensätze, die sich bewährt hat.
 
 ## Bildersammlung Annemarie Schwarzenbach
 https://opendata.swiss/de/dataset/bildersammlung-annemarie-schwarzenbach
