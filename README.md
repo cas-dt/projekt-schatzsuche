@@ -50,22 +50,21 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 
 ## Termine
 
-### 13. September
+### 18. September (nachm.)
 
-- Projektstart (Flo)
-- Gruppenbildung, Projektwahl
-- Ziel: «Fact Sheet», Wireframes
+- Projektstart
+- Besprechung Konzept
+- Prototyping
 
-### 26. September
+### 19. September
 
-- Konsultationen
-- Projektarbeit (Prototyping)
+- Workshop
 
-### 27. September
+### 2. Oktober (nachm.)
 
-- TBD
+- Konsultation
 
-### 18. Oktober
+### 16. Oktober
 
 - Konsultation, Letzter Schliff (Vormittag)
 - Präsentationen, ca. 10 Minuten (Nachmittag)
