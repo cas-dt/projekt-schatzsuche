@@ -45,14 +45,12 @@ Wir haben im Dokument [Datensätze.md](https://github.com/cas-dt/projekt-schatzs
 
 ## Präsentation
 - Präsentation (ca. 10 Minuten): 
-  - Kann direkt in Figma gemacht werden.
+- Kann direkt in Figma gemacht werden.
 
 
 ## Termine
 
-Falsch:
-~
-### 18. September (nachm.)
+### 5. September (nachm.)
 
 - Projektstart
 - Besprechung Konzept
@@ -67,7 +65,6 @@ Falsch:
 - Konsultation
 
 ### 16. Oktober
-~
 
 - Konsultation, Letzter Schliff (Vormittag)
 - Präsentationen, ca. 10 Minuten (Nachmittag)
